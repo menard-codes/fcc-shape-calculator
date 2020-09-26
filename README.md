@@ -1,3 +1,5 @@
+### This is a Certification Project of freeCodeCamp for Scientific Computing with Python (Project Number 4)
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
